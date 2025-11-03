@@ -21,6 +21,8 @@ A complete, beginner-friendly walkthrough for deploying a **two-tier web applica
 ---
 
 ##  Overview
+<img width="1912" height="1036" alt="image" src="https://github.com/user-attachments/assets/875c35b0-50ca-478f-be74-07d7b03c8dba" />
+
 This project demonstrates a full **AWS two-tier architecture** for small business or portfolio websites.
 It includes:
 - Secure private database tier  
