@@ -31,7 +31,6 @@ It includes:
 ---
 
 ##  Architecture Diagram
-![Two-Tier AWS Diagram](architecture/aws-two-tier-diagram.png)
 <img width="698" height="509" alt="image" src="https://github.com/user-attachments/assets/83dd93a9-26f4-47e8-bf4a-7afadf30d92a" />
 
 
