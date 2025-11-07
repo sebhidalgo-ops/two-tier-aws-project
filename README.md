@@ -9,14 +9,6 @@ A complete, beginner-friendly walkthrough for deploying a **two-tier web applica
 
 ---
 
-##  Table of Contents
-1. [Overview](#overview)
-2. [Architecture Diagram](#architecture-diagram)
-3. [Technologies Used](#technologies-used)
-4. [Setup Phases](#setup-phases)
-5. [Screenshots](#screenshots)
-6. [Troubleshooting](#troubleshooting)
-7. [Credits](#credits)
 
 ---
 
